@@ -1,4 +1,4 @@
-# Vidit Arora
+# Vidit Arora 🦦
 
 B.Tech Software Engineering student at Delhi Technological University (DTU), class of 2029, CGPA **9.6/10** and Department Rank 3 after two semesters. I build LLM agent systems and run deep learning experiments in Python and PyTorch. I am looking for SDE and AI engineering internships: remote at any time of year, and on-site anywhere in the world for summer 2027, across time zones. I am authorized to work in India and will apply for work authorization in other countries. My research interest is the security of LLM-based agents.
 
