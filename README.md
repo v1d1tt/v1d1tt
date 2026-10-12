@@ -4,7 +4,7 @@ B.Tech Software Engineering student at Delhi Technological University (DTU), cla
 
 | Project | What it shows |
 |---|---|
-| [Agentic Deep Research Console](https://github.com/v1d1tt/agentic-deep-research-console) (solo) | Multi-agent RAG over **700+** arXiv papers, with a citation verifier, an ablation harness and a Streamlit UI. |
+| [Agentic Deep Research Console](https://github.com/v1d1tt/agentic-deep-research-console) | Multi-agent RAG over **700+** arXiv papers, with a citation verifier, an ablation harness and a Streamlit UI. |
 | [Mamba-Dexformer](https://github.com/v1d1tt/speech-separator) | Speech separation study with Mamba models: SI-SDR of 1.6 to 4.2 dB, a documented forgetting finding, a Gradio demo. |
 | [Pluvial-AI](https://github.com/Rudransh-1508/Pluvial-AI) (team of 3) | **1st prize**, AIMS x Mireye hackathon. Adversarial agents that cite sampled map points. I built one third. |
 | [Vaani-Setu](https://github.com/v1d1tt/Vernacular-Pedagogy) (team) | Offline literacy app for the PALASH programme, on **2 GB** RAM Android tablets. |
