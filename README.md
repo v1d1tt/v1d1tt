@@ -41,12 +41,12 @@ A RAG agent over Feynman's lectures, books and letters (LangGraph, ChromaDB, Gem
 
 ## Research, leadership and competitions
 
-- Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, since May 2026. 
-- Co-Head of the Junior Council at AIMS, the AI & ML Society of DTU (a student society, separate from the AIMS Lab). I teach AI and ML to juniors, with 20+ sessions planned for 100+ juniors, and helped the team organise two hackathons in October 2026: an AWS offline build day that had 2,500 participants and a TinyFish agentic hackathon that had 500 participants.
+- Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, from June 2026 to October 2026. No publication yet.
+- Co-Head of the Junior Council at AIMS, the AI & ML Society of DTU (a student society, separate from the AIMS Lab). I teach ML to juniors, with 20+ sessions planned for 100+ juniors, and I co-organise two hackathons in October 2026: an AWS offline build day that expects 2,500 participants and a TinyFish agentic hackathon that expects 500.
 - Technical Lead at Fresources @DTU, which runs the software department's academic resources on its site and a community of 2,000+ students.
 - Winner (team), BITS at Invictus '26, the DTU tech fest: three stages of competitive programming, CS fundamentals and an algorithmic treasure hunt.
 - Top 10 finalist (team), ISRO Bharatiya Antariksh Hackathon 2026, working on SAR and other satellite imagery.
-- Rank 2 of 352 in a campus-wide Kaggle ML competition, and Rank 2 of 47 in an intra-department Kaggle forecasting competition, Both are campus competitions, not official Kaggle medals.
+- Rank 2 of 47 in an intra-department Kaggle forecasting competition, and Rank 2 in a campus-wide Kaggle ML competition. Both are campus competitions, not official Kaggle medals.
 
 ## Stack
 
