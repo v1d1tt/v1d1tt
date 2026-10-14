@@ -7,7 +7,7 @@ B.Tech Software Engineering student at Delhi Technological University (DTU), cla
 | [Agentic Deep Research Console](https://github.com/v1d1tt/agentic-deep-research-console) | Multi-agent RAG over **700+** arXiv papers, with a citation verifier, an ablation harness and a Streamlit UI. |
 | [Mamba-Dexformer](https://github.com/v1d1tt/speech-separator) | Speech separation study with Mamba models: SI-SDR of 1.6 to 4.2 dB, a documented forgetting finding, a Gradio demo. |
 | [Pulse](https://github.com/v1d1tt/social-media-manager) | Five LangGraph agents with a LinUCB bandit for posting time and a circuit breaker that pauses posts when sentiment turns negative. |
-| [Pluvial-AI](https://github.com/Rudransh-1508/Pluvial-AI) (team of 3) | **1st prize**, AIMS x Mireye hackathon. Adversarial agents that cite sampled map points. I proposed the idea and wrote one third of the code. |
+| [Pluvial-AI](https://github.com/v1d1tt/Pluvial-AI) (team of 3) | **1st prize**, AIMS x Mireye hackathon. Adversarial agents that cite sampled map points. I proposed the idea and wrote one third of the code. |
 | [Vaani-Setu](https://github.com/v1d1tt/Vernacular-Pedagogy) (team) | Offline literacy app for the PALASH programme, on **2 GB** RAM Android tablets. |
 
 [LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [LeetCode](https://leetcode.com/u/v1d1t/) · New Delhi, India
