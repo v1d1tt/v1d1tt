@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Vidit Arora. Agents, RAG and full-stack. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%">
+  <img src="assets/banner.svg" alt="Vidit Arora. Agents, harnesses, skills and agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%">
 </div>
 
-I am a B.Tech Software Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.6/10 and Department Rank 3 after two semesters. I build LLM agent systems with LangGraph and run deep learning experiments in Python and PyTorch. My research interest is the security of LLM-based agents.
+I am a B.Tech Software Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.6/10 and Department Rank 3 after two semesters. I build LLM agent systems with LangGraph and run deep learning experiments in Python and PyTorch. I also do the engineering around the model: harness, context, prompt and loop engineering, and I write agent skills for my own AI-assisted coding. Using them is how I get better at working with AI. In my projects, decision models such as Jev and Laya make the ranking and routing choices that need typed answers with probabilities. My research interest is the security of LLM-based agents.
 
 I am open to SDE and AI/ML internships. Remote work is fine at any time of year, and I can work on-site anywhere in the world for summer 2027, across time zones. I am authorized to work in India and will apply for work authorization in other countries.
 
@@ -12,7 +12,8 @@ I am open to SDE and AI/ML internships. Remote work is fine at any time of year,
 
 | Area | Range |
 |---|---|
-| AI, ML and DL | Computer vision, CNNs, RNNs and sequence models, transformers, audio and speech, image models, knowledge graphs, NLP, LLM agents and RAG, generative models, classical ML and forecasting |
+| AI, ML and DL | Computer vision, CNNs, RNNs and sequence models, transformers, audio and speech, image models, knowledge graphs, NLP, LLM agents, RAG (agentic, graph, self and adaptive), decision models (Jev, Laya), generative models, classical ML and forecasting |
+| Agent engineering | Harness, context, prompt and loop engineering, agent skills, evaluation harnesses |
 | Software engineering | Backend and APIs, full-stack web apps, databases, deployment. Intern and fresher roles now, growing toward senior-level ownership |
 
 The projects below cover LLM agents, RAG, speech and sequence models, on-device ML and full-stack apps.
@@ -68,13 +69,13 @@ The reported SI-SDR is 1.63, 3.38, 4.08 and 4.21 dB for two to five speakers, wh
 </details>
 
 <details>
-<summary><b>Opening Radar</b>: live job and internship finder with ghost-job checks and resume fit</summary>
+<summary><b>Opening Radar</b>: live job and internship finder, ranked by the Laya decision model</summary>
 
 <br>
 
 You set a role, a location, a level, keywords, an optional target company and an optional resume PDF. Opening Radar searches Greenhouse, Lever, Ashby, Workable and SmartRecruiters, reads up to 20 postings in parallel, and drops closed links and duplicates. A browser agent reads Internshala live, and a background agent reads a target company's careers page.
 
-A rule-based check labels each posting a live opening, check before applying, or likely ghost job. It looks at talent-pool wording, post age, reposts, thin detail and a missing location, and ghost jobs rank lower. The Laya decision model ([open weights](https://huggingface.co/convaiinnovations/laya)) scores role, location and level with probabilities, and checks your resume against each posting's requirement bullets. Level and location act as gates, so a Berlin job or a VP role cannot outrank a Bangalore internship in an intern search. A separate mode opens the application form and lists its fields. It never types, uploads or submits.
+A rule-based check labels each posting a live opening, check before applying, or likely ghost job. It looks at talent-pool wording, post age, reposts, thin detail and a missing location, and ghost jobs rank lower. I used the Laya decision model ([open weights](https://huggingface.co/convaiinnovations/laya)), an open alternative to Jev, for the ranking. It scores role, location and level with probabilities, and checks your resume against each posting's requirement bullets. I serve it behind a Jev-compatible endpoint. Level and location act as gates, so a Berlin job or a VP role cannot outrank a Bangalore internship in an intern search. A separate mode opens the application form and lists its fields. It never types, uploads or submits.
 
 I built it alone for the TinyFish x DTU workshop. The stack is Next.js, React, TypeScript, Tailwind and Vercel, with TinyFish Search, Fetch, Agent and Monitor. It has no automated tests, and the ranking weights are set by hand and not benchmarked. If Laya is unreachable, the app says so and ranks with fixed rules.
 
@@ -115,4 +116,4 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 
 ## Stack
 
-Python (primary), C++, TypeScript, SQL. LangGraph, RAG with ChromaDB, Gemini API, PyTorch, Mamba. FastAPI, Streamlit, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime. Git and Linux.
+Python (primary), C++, TypeScript, SQL. LangGraph, agent harnesses and skills, RAG with ChromaDB, Jev and Laya decision models, Gemini API, PyTorch, Mamba. FastAPI, Streamlit, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime. Git and Linux.
