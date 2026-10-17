@@ -6,7 +6,7 @@ I am a B.Tech Software Engineering student at Delhi Technological University (DT
 
 I am open to SDE and AI/ML internships. Remote work is fine at any time of year, and I can work on-site anywhere in the world for summer 2027, across time zones. I am authorized to work in India and will apply for work authorization in other countries.
 
-[LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [LeetCode](https://leetcode.com/u/v1d1t/) · New Delhi, India
+[LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [LeetCode](https://leetcode.com/u/viditarora/) · New Delhi, India
 
 ## What I work on
 
