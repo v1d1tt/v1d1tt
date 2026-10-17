@@ -6,7 +6,7 @@ I am a B.Tech Software Engineering student at Delhi Technological University (DT
 
 I am open to SDE and AI/ML internships. Remote work is fine at any time of year, and I can work on-site anywhere in the world for summer 2027, across time zones. I am authorized to work in India and will apply for work authorization in other countries.
 
-[LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [LeetCode](https://leetcode.com/u/viditarora/) · New Delhi, India
+[LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Resume](resume.pdf) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [LeetCode](https://leetcode.com/u/viditarora/) · New Delhi, India
 
 ## What I work on
 
@@ -109,7 +109,7 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 
 - Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, from June 2026 to October 2026. No publication yet.
 - Co-Head of the Junior Council at AIMS, the AI & ML Society of DTU (a student society, separate from the AIMS Lab). I teach ML to juniors, with 20+ sessions planned for 100+ juniors, I volunteered in event management at the AWS Build with Bharat offline day, and I help organise BITCAMP, an agentic AI workshop and buildathon with TinyFish.
-- Team Lead at Fresources @DTU, which runs the software department's academic resources on its site and a community of 2,000+ students.
+- Team Lead at Fresources @DTU, which runs the software department's academic resources on its site and a community of 4,000+ students.
 - Winner (team), BITS at Invictus '26, the DTU tech fest: three stages of competitive programming, CS fundamentals and an algorithmic treasure hunt.
 - Top 10 finalist (team), ISRO Bharatiya Antariksh Hackathon 2026, working on SAR and other satellite imagery.
 - Rank 2 of 47 in an intra-department Kaggle forecasting competition, and Rank 2 in a campus-wide Kaggle ML competition. Both are campus competitions, not official Kaggle medals.
