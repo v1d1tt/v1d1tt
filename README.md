@@ -113,7 +113,7 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 - Winner (team), BITS at Invictus '26, the DTU tech fest: three stages of competitive programming, CS fundamentals and an algorithmic treasure hunt.
 - Top 10 finalist (team), ISRO Bharatiya Antariksh Hackathon 2026, working on SAR and other satellite imagery.
 - Rank 2 of 47 in an intra-department Kaggle forecasting competition, and Rank 2 in a campus-wide Kaggle ML competition. Both are campus competitions, not official Kaggle medals.
-- Writing: [Software 1.0, 2.0, 3.0: Who Is Still at the Table?](https://medium.com/@v1d1tt/software-1-0-2-0-3-0-who-is-still-at-the-table-f92fe3488dfc), a Medium article on Karpathy's three kinds of software, based on his 2017 essay, his 2025 talk and a 2026 conversation.
+- Wrote: [Software 1.0, 2.0, 3.0: Who Is Still at the Table?](https://medium.com/@v1d1tt/software-1-0-2-0-3-0-who-is-still-at-the-table-f92fe3488dfc), a Medium article on Karpathy's three kinds of software, based on his 2017 essay, his 2025 talk and a 2026 conversation.
 
 ## Stack
 
