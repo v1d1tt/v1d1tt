@@ -34,6 +34,19 @@ The harness runs 30 questions with the Planner, Reflector and Verifier each swit
 </details>
 
 <details>
+<summary><b>Agent injection recognition</b>: do agents notice a prompt injection in their own reasoning? (archived study)</summary>
+
+<br>
+
+An exploratory study from my research internship at the AIMS Lab. When an agent resists a prompt injection, a benchmark score cannot say whether it spotted the attack or never saw it. I read the agents' own reasoning on two AgentDojo suites, banking and workspace, with three local open-weight models (deepseek-r1:14b, qwen2.5:14b and qwen2.5:7b). I built a rule-based recognition classifier and a tiered compliance signal for it.
+
+In the banking runs no model showed recognition of the injection, and most resisted runs never mentioned the attack. The classifier agrees with my own labels on 60 traces (Cohen's kappa 0.75), but that check is in-sample and I am the only human annotator. The study has one run per scenario, no frontier model, and a file-name bug that changed some banking counts. Zarif et al. (October 2026) ran the same question on 33,000 trajectories, so I archived this study and did not submit it.
+
+[Repository](https://github.com/v1d1tt/agent-injection-recognition)
+
+</details>
+
+<details>
 <summary><b>Pulse</b>: five LangGraph agents that plan, write and guard social media posts</summary>
 
 <br>
@@ -107,7 +120,7 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 
 ## Research, leadership and competitions
 
-- Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, from June 2026 to present. No publication as of now.
+- Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, from June 2026 to present. My first study is finished and archived: [Refusal or Incompetence? Measuring Injection Recognition in Agent Chains of Thought](https://github.com/v1d1tt/agent-injection-recognition). No publication as of now.
 - Co-Head of the Junior Council at AIMS, the AI & ML Society of DTU (a student society, separate from the AIMS Lab). I teach ML to juniors, with 20+ sessions planned for 100+ juniors, I volunteered in event management at the AWS Build with Bharat offline day, and I help organise BITCAMP, an agentic AI workshop and buildathon with TinyFish.
 - Team Lead at Fresources @DTU, which runs the software department's academic resources on its site and a community of 4,000+ students.
 - 1st prize (team of 3), AIMS x Mireye internal hackathon, with Pluvial-AI.
