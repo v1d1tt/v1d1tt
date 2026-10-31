@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Vidit Arora. Agents, harnesses, skills and agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%">
+  <a href="https://linkedin.com/in/viditarora18"><img src="assets/banner.svg" alt="Vidit Arora. Agents, harnesses, skills and agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%"></a>
 </div>
 
 I am a B.Tech Software Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.6/10 and Department Rank 3 after two semesters 🦦. I build LLM agent systems with LangGraph and run deep learning experiments in Python and PyTorch. I also do the engineering around the model: harness, context, prompt and loop engineering, and I write agent skills for my own AI-assisted coding. Using them is how I get better at working with AI. In my projects, system one decision models such as Jev and Laya make the ranking and routing choices that need typed answers with probabilities. My research interest is the security of LLM-based agents.
