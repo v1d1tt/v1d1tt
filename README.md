@@ -101,7 +101,7 @@ I built it alone for the TinyFish x DTU workshop. The stack is Next.js, React, T
 
 <br>
 
-I wrote about half of the code. It teaches literacy and numeracy under the PALASH programme and runs fully offline, using INT8 ONNX models for Hindi speech recognition, translation and speech synthesis.
+Built as a solution for SIH 2026 PS 42. I wrote about half of the code. It teaches literacy and numeracy under the PALASH programme and runs fully offline, using INT8 ONNX models for Hindi speech recognition, translation and speech synthesis.
 
 [Repository](https://github.com/v1d1tt/Vernacular-Pedagogy)
 
