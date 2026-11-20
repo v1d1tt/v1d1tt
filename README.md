@@ -130,4 +130,7 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 
 ## Stack
 
-Python, C++, C, TypeScript, SQL. LangGraph, agent harnesses and skills, RAG, Jev and Laya decision models, Google AI studio, PyTorch, Mamba. FastAPI, Streamlit, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime. Git and Linux.
+Python, C++, C, TypeScript, SQL. 
+LangGraph, agent harnesses and skills, RAG, Jev and Laya decision models, Google AI studio, PyTorch, Mamba. 
+FastAPI, Streamlit, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime.
+Git and Linux.
