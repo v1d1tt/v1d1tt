@@ -117,6 +117,19 @@ Built with LangGraph, ChromaDB, Gemini and Streamlit. It can write and run Pytho
 
 </details>
 
+<details>
+<summary><b>Sports Insight Bot</b>: a cricket-first chat Analyst that draws fielding setups on an interactive ground</summary>
+
+<br>
+
+A chat app that answers sports questions and, for cricket, draws a field placement on an interactive Ground. You drag the fielders, and the page checks the field against the fielding restrictions as you move them. It also has a Wagon wheel for recording shots, voice input and image input. The first version (January 2026) stopped working when its model lost its providers on OpenRouter, so I rebuilt it in November 2026. The model, google/gemma-4-26b-a4b-it, was picked by a test of 6 models. A prompt-injection screen with a written policy checks risky input, and the app limits what one visitor can spend.
+
+It uses Svelte 5, TypeScript, FastAPI and Vercel, and CI runs pytest, Vitest and Playwright tests. The model can still invent details in images, and the injection screen is a classifier that a new kind of attack can get past.
+
+[Repository](https://github.com/v1d1tt/sports-insight-bot) · [Live app](https://sports-insight-bot.vercel.app)
+
+</details>
+
 ## Research, leadership and competitions
 
 - Research Intern in agentic AI security at the AIMS Lab, Department of Information Technology, DTU, under Prof. D.K. Vishwakarma, from June 2026 to present. My first study is finished and archived: [Refusal or Incompetence? Measuring Injection Recognition in Agent Chains of Thought](https://github.com/v1d1tt/agent-injection-recognition). No publication as of now.
