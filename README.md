@@ -145,5 +145,5 @@ It uses Svelte 5, TypeScript, FastAPI and Vercel, and CI runs pytest, Vitest and
 
 Python, C++, C, TypeScript, SQL. 
 LangGraph, agent harnesses and skills, RAG, Jev and Laya decision models, Google AI studio, PyTorch, Mamba. 
-FastAPI, Streamlit, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime.
+FastAPI, Streamlit, Svelte, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime.
 Git and Linux.
