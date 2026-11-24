@@ -15,7 +15,7 @@ I am open to SDE and AI/ML internships. Remote work is fine at any time of year,
 |---|---|
 | AI, ML and DL | Computer vision, CNNs, RNNs and sequence models, transformers, audio and speech, image models, knowledge graphs, NLP, LLM agents, RAG (agentic, graph, self and adaptive), decision models (Jev, Laya), generative models, classical ML and forecasting |
 | Agent engineering | Harness, context, prompt and loop engineering, agent skills, evaluation harnesses |
-| Software engineering | Backend and APIs, full-stack web apps, databases, deployment. Intern and fresher roles now, growing toward senior-level ownership |
+| Software engineering | Backend and APIs, full-stack web apps, databases, testing and CI, deployment. Intern and fresher roles now, growing toward senior-level ownership |
 
 The projects below cover LLM agents, RAG, speech and sequence models, on-device ML and full-stack apps.
 
@@ -148,4 +148,4 @@ It uses Svelte 5, TypeScript, FastAPI and Vercel, and CI runs pytest, Vitest and
 Python, C++, C, TypeScript, SQL. 
 LangGraph, agent harnesses and skills, RAG, Jev and Laya decision models, Google AI studio, PyTorch, Mamba. 
 FastAPI, Streamlit, Svelte, Gradio, Next.js, SQLite, PostgreSQL, ONNX Runtime.
-Git and Linux.
+Git, Linux, GitHub Actions, Vercel, pytest, Vitest and Playwright.
