@@ -9,6 +9,14 @@ I am open to SDE and AI/ML internships. Remote work is fine at any time of year,
 
 [LinkedIn](https://linkedin.com/in/viditarora18) · [Email](mailto:viditarora18@gmail.com) · [Resume](resume.pdf) · [Kaggle](https://www.kaggle.com/viditarora18) · [Hugging Face](https://huggingface.co/v1d1tt) · [Medium](https://medium.com/@v1d1tt) · [LeetCode](https://leetcode.com/u/viditarora/) · New Delhi, India
 
+## Second brain
+
+A 3D map of what I learn, build and watch. It orbits on its own. Open any topic to see which other topics it connects to. It shows labels only.
+
+<a href="https://v1d1tt.github.io/second-brain/"><img src="assets/second-brain-orbit.gif" alt="A slowly rotating 3D graph of topics around five areas: AI and ML, Career and Code, Curiosity and Knowledge, DTU and Academics, and Culture and Creativity." width="640"></a>
+
+[Open the map](https://v1d1tt.github.io/second-brain/)
+
 ## What I work on
 
 | Area | Range |
