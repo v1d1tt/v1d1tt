@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://linkedin.com/in/viditarora18"><img src="assets/banner.svg" alt="Vidit Arora. Agents, harnesses, skills and agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%"></a>
+  <a href="https://linkedin.com/in/viditarora18"><img src="assets/banner.svg" alt="Vidit Arora. Agents, Harnesses, Skills and Agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%"></a>
 </div>
 I am a B.Tech Software Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.6/10 and Department Rank 3 after two semesters 🦦. 
 
